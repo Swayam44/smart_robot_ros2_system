@@ -1,0 +1,55 @@
+# Smart Robot ROS 2 System
+
+This repository is a ROS 2 project demonstrating modular robot communication using topics, services, parameters, and launch files.
+
+## Contents
+
+- ROS 2 Python package
+- Robot sensor simulation
+- Controller node with decision logic
+- Battery monitoring node
+- Dashboard/monitor node
+- Launch file for startup
+
+## Local files
+
+- `build/`
+- `install/`
+- `log/`
+- `*.pyc`
+- `__pycache__/`
+- `.vscode/`
+- `.idea/`
+- `.DS_Store`
+- `*.swp`
+- `*.swo`
+- `*.bak`
+- `*.orig`
+
+## ROS 2 generated files
+
+- `build/`
+- `install/`
+- `log/`
+
+## Python environment files
+
+- `*.pyc`
+- `__pycache__/`
+
+## Editor files
+
+- `.vscode/`
+- `.idea/`
+
+## OS files
+
+- `.DS_Store`
+
+## Git
+
+- `.gitignore`
+
+## Notes
+
+Do not commit generated workspace files or editor-specific configuration.
